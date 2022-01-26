@@ -1,6 +1,7 @@
 # main text of home
 name: Ankit
-bio: IT UnderGrad with Minors in Management, University of Delhi
+bio: Associate Software Engineer, Tech Mahindra
+B.Tech in IT, University of Delhi
 
 # twitter summary info
 #description: A blog about technology and stuff related
@@ -10,11 +11,14 @@ bio: IT UnderGrad with Minors in Management, University of Delhi
 external-image: false
 picture: assets/images/profile.jpg
 
+# your site color theme, false to light theme
+dark-theme: true
+
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: http://bit.ly/39w1POS
+resume-url: https://bit.ly/32wW6cb
 
 url: https://ankitcic.github.io
 # your url: https://USERNAME.github.io
@@ -50,16 +54,17 @@ linkedin: ankitcic
 medium: ankitcic
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-twitter: bittwobit
+twitter: ankitcic
 
 
 authors:
   ankit:
     name: Ankit
-    bio: IT UnderGrad with Minors in Management, University of Delhi
+    bio: Associate Software Engineer, Tech Mahindra
+    B.Tech in IT, University of Delhi
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: bittwobit
+    twitter: ankitcic
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
