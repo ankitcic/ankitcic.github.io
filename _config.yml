@@ -1,7 +1,7 @@
 # main text of home
 name: Ankit
-bio: Associate Software Engineer, Tech Mahindra
-B.Tech in IT, University of Delhi
+bio: runner// engineer// active citizen// sports & fpl buff
+                 Real Madrid fanboi
 
 # twitter summary info
 #description: A blog about technology and stuff related
@@ -9,7 +9,7 @@ B.Tech in IT, University of Delhi
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.jpeg
 
 # your site color theme, false to light theme
 dark-theme: true
@@ -38,7 +38,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-email: ankit.cic7@ducic.ac.in
+email: ankit.cic7@gmail.com
 # facebook: facebook
 github: ankitcic
 instagram: ankitcic
