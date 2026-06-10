@@ -1,6 +1,6 @@
 # main text of home
 name: Ankit
-bio: an active citizen of India
+bio: Runner, FPL buff, an active citizen, Real Madrid fan
 
 # twitter summary info
 #description: A blog about technology and stuff related
@@ -16,8 +16,8 @@ dark-theme: true
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://bit.ly/32wW6cb
+resume-external: false
+resume-url: assets/Ankit_CV.pdf
 
 url: https://ankitcic.github.io
 # your url: https://USERNAME.github.io
@@ -59,8 +59,7 @@ twitter: ankitcic
 authors:
   ankit:
     name: Ankit
-    bio: runner// engineer// active citizen// sports and fpl buff
-                 Real Madrid fanboi
+    bio: Runner, FPL buff, an active citizen, Real Madrid fan
     external-image: false
     picture: assets/images/profile.jpeg
     twitter: ankitcic
